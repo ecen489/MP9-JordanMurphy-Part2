@@ -1,0 +1,4 @@
+#Tue Apr 16 22:52:07 CDT 2019
+base.0=/Users/jordanmurphy/Documents/AndroidStudioProjects/MP9-JordanMurphy-Part2/app/build/intermediates/transforms/dexMerger/debug/3
+path.0=classes.dex
+renamed.0=classes.dex
